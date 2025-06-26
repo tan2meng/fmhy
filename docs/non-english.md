@@ -181,7 +181,6 @@
 
 ## ▷ Downloading / 下载
 
-* [shinybbs](https://sysub.vip/) - Movies / TV / 1080p
 * [AnimeNep](https://t.me/AnimeNep) - Anime
 * [Hifini](https://www.hifini.com/) or [J-pop Music Download](https://jpop.xyz/category/c-pop/) - Music / FLAC / MP3
 * [icourse163](https://www.icourse163.org/) / [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - Courses
