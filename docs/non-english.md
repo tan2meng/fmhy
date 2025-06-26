@@ -216,9 +216,12 @@
 
 * 🌐 **[Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Sites Index
 * 🌐 **[Movie Forest](https://549.tv/)** or **[klyingshi](https://klyingshi.com/)** - Chinese Streaming Sites Index
-* ⭐ **[555dy](https://577938.vip/)** - Movies / TV / Anime / NSFW / Sub / 1080p
+* ⭐ **[555电影](https://577938.vip/)**, [2]（https://55dwn.art）, [3]（https://555dy.tv）, [4]（https://55clv.art）- Movies / TV / Anime / NSFW / Sub / 1080p
 * ⭐ **[BiliBili](https://www.bilibili.com/)** / [.tv](https://www.bilibili.tv/) / [Multi-Platform Client](https://xfangfang.github.io/wiliwili/) / [Signup Block](https://greasyfork.org/en/scripts/467474) / [Sponsorblock](https://github.com/hanydd/BilibiliSponsorBlock) / [Enhancement Script](https://github.com/the1812/Bilibili-Evolved)
-* [ddrk](https://ddys.pro/), [2](https://ddys.info/) - Movies / TV / Anime / Sub / 1080p
+* [低端影视](https://ddys.pro/), [2](https://ddys.info/) - Movies / TV / Anime / Sub / 1080p
+* [NO视频](https://www.novipnoad.net), [2](https://findno.tv) - Movies / TV / Anime / Sub / 1080p
+* [HDmoli]（https://www.hdmoli.pro），[2](https://molicp.com) - Movies / TV / Anime / Sub / 1080p
+* [厂长资源]（https://www.cz233.com）, [2](https://www.czzymovie.com), [3](https://www.czzy.site) - Movies / TV / Anime / Sub / 1080p
 * [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / Cartoons / Sub / Dub / 1080p / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
 * [MoMoVOD](https://momovod.app/) - Movies / TV / Anime / Sub / 1080p
 * [VidHub](https://vidhub.me/) - Movies / TV / Anime / Sub / 1080p
